@@ -1,0 +1,12 @@
+#SIP_RG
+#This project provides python scripts to map soil-derived isolates to ASV representative sequences generated from QIIME2
+#Before starting this procedure, users are required to build-up a local database from your samples for the batch blastn 
+
+## System requirements
+#These python scripts were only tested by the contributors in windows 11 with python 3.10
+#Packages used are included in python scripts
+#No special hardware is required
+
+##Demo
+#Demos are provided for an isolate named A6B12, including the original .fasta file, the extracted V4 region by trim_fasta_files.py, and the blast_output file by filter_97_identity_isolates_to_asv.py
+
