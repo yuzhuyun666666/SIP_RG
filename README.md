@@ -1,6 +1,5 @@
 #SIP_RG
-#This project provides python scripts to map soil-derived isolates to ASV representative sequences generated from QIIME2
-#Before starting this procedure, users are required to build-up a local database from your samples for the batch blastn 
+This project provides python scripts to map soil-derived isolates to ASV representative sequences generated from QIIME2. Before starting this procedure, users are required to build-up a local database from your samples for the batch blastn 
 
 ## System requirements
 #These python scripts were only tested by the contributors in windows 11 with python 3.10
